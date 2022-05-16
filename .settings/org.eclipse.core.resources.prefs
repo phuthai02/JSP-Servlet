@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controllers/admin/QLOrders.java=UTF-8
+encoding//src/main/java/controllers/admin/QLProducts.java=UTF-8
+encoding//src/main/java/controllers/admin/QLUsers.java=UTF-8
+encoding//src/main/java/controllers/user/QLBills.java=UTF-8
+encoding//src/main/java/controllers/user/QLCarts.java=UTF-8
+encoding//src/main/java/controllers/user/QLInfo.java=UTF-8
